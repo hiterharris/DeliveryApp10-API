@@ -1,5 +1,3 @@
-const {images} = require('../constants/images')
-
 const affordable = 1
 const fairPrice = 2
 const expensive = 3
