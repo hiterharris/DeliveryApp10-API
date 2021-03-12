@@ -128,7 +128,7 @@ const productsData = [
         id: 2,
         name: 'Beer',
         category: [2],
-        photo: 'https://bit.ly/3laTcyJ',
+        photo: 'https://bit.ly/3bDnSWm',
         products: beers,
     },
     {
