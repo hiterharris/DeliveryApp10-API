@@ -1,4 +1,4 @@
-export const categoryData = [
+const productsCategories = [
     {
         id: 1,
         name: "All",
@@ -22,6 +22,8 @@ export const categoryData = [
     {
         id: 5,
         name: "Tobacco",
-        icon: 'https://bit.ly/3qH1pMm',
+        icon: 'https://bit.ly/38yho9f',
     }
-]
+];
+
+module.exports = productsCategories;

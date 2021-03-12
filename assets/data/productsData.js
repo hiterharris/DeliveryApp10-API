@@ -128,7 +128,7 @@ const productsData = [
         id: 2,
         name: 'Beer',
         category: [3],
-        photo: 'https://bit.ly/3bDnSWm',
+        photo: 'https://bit.ly/30Bu5vJ',
         products: beers,
     },
     {
@@ -141,7 +141,7 @@ const productsData = [
         id: 4,
         name: 'Tobacco',
         category: [5],
-        photo: 'https://bit.ly/30Ew95S',
+        photo: 'https://bit.ly/38yho9f',
         products: tobacco,
     },
 ];
