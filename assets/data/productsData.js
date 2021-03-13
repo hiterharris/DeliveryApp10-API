@@ -51,7 +51,7 @@ const beers = [
     {
         id: 1,
         brandName: 'Budweiser',
-        photo: 'https://bit.ly/3coMaCC',
+        brandPhoto: 'https://bit.ly/3coMaCC',
         items: [
             {
                 id: 1,
@@ -69,7 +69,7 @@ const wines = [
     {
         id: 1,
         brandName: 'Rombauer',
-        photo: 'https://bit.ly/3ewNqpL',
+        brandPhoto: 'https://bit.ly/3ewNqpL',
         items: [
             {
                 id: 1,
