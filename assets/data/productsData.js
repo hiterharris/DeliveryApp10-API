@@ -87,7 +87,7 @@ const tobacco = [
     {
         id: 1,
         brandName: 'cigarettes',
-        photo: 'https://bit.ly/3cjV58k',
+        brandPhoto: 'https://bit.ly/3cjV58k',
         items: [
             {
                 id: 1,
@@ -102,7 +102,7 @@ const tobacco = [
     {
         id: 1,
         brandName: 'dip',
-        photo: 'https://bit.ly/3cmomPS',
+        brandPhoto: 'https://bit.ly/3cmomPS',
         items: [
             {
                 id: 1,
