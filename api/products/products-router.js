@@ -1,13 +1,12 @@
 const router = require('express').Router();
-const products = require('./productsData');
-const newProductsData = require('./newProductsData');
+const { productsData, allItems } = require('./productsData');
 
 router.get('/', (req, res) => {
-  res.send(products)
+  res.send(productsData)
 });
 
-router.get('/new', (req, res) => {
-  res.send(newProductsData)
+router.get('/all', (req, res) => {
+  res.send(allItems)
 });
 
 module.exports = router;
